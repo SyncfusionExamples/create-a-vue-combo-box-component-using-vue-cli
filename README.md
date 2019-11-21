@@ -1,4 +1,4 @@
-# How to Get Started with the Syncfusion Vue ComboBox
+# How to Get Started with the Vue ComboBox of Syncfusion
 
 Learn how easily you can create and configure the Syncfusion Vue ComboBox using Vue CLI. You will see how to populate JSON data and remote data sources to the ComboBox, how to sort the data source, and how to set a custom height and width for the ComboBox pop-up. 
 
